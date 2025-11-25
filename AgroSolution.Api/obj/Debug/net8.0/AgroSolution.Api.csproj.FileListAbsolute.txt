@@ -51,3 +51,4 @@ C:\workplace\AgroTec\Back\AgroSolution.API\obj\Debug\net8.0\refint\AgroSolution.
 C:\workplace\AgroTec\Back\AgroSolution.API\obj\Debug\net8.0\AgroSolution.Api.pdb
 C:\workplace\AgroTec\Back\AgroSolution.API\obj\Debug\net8.0\AgroSolution.Api.genruntimeconfig.cache
 C:\workplace\AgroTec\Back\AgroSolution.API\obj\Debug\net8.0\ref\AgroSolution.Api.dll
+C:\workplace\AgroTec\Back\AgroSolution.Api\obj\Debug\net8.0\AgroSolution.Api.sourcelink.json

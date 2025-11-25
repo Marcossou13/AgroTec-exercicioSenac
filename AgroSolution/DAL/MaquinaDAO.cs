@@ -1,7 +1,7 @@
 
 class MaquinaDAO : IDAO<Maquina>
 {
-    private AgroSolutionContext context;
+    private AgroSolutionContext context = new AgroSolutionContext();
     public void Adicionar(Maquina objeto)
     {
         context.Maquinas.Add(objeto);
@@ -16,16 +16,19 @@ class MaquinaDAO : IDAO<Maquina>
 
     public Maquina ObterPorId(int id)
     {
-        throw new NotImplementedException();
+        Maquina maquina = null;
+        maquina = context.Maquinas.FirstOrDefault(x => x.Id == id);
+        return maquina;
     }
 
     public List<Maquina> ObterTodos()
     {
-        throw new NotImplementedException();
+        return context.Maquinas.ToList();
     }
 
     public void Remover(Maquina objeto)
     {
-        throw new NotImplementedException();
+        context.Maquinas.Remove(objeto);
+        context.SaveChanges();
     }
 }

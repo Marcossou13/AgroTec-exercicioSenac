@@ -1,29 +1,30 @@
 
-class MaquinaController : IController<Maquina>
+public class MaquinaController : IController<Maquina>
 {
-    private MaquinaDAO dao;
+    private MaquinaDAO Dao = new MaquinaDAO();
     public void Adicionar(Maquina objeto)
     {
-        dao.Adicionar(objeto);
+        Dao.Adicionar(objeto);
     }
 
     public void Editar(Maquina objeto)
     {
-        dao.Editar(objeto);
+        Dao.Editar(objeto);
     }
 
     public Maquina ObterPorId(int id)
     {
-        return dao.ObterPorId(id);
+        return Dao.ObterPorId(id);
     }
 
     public List<Maquina> ObterTodos()
     {
-        return dao.ObterTodos();
+        List<Maquina> maquinas = Dao.ObterTodos();
+        return maquinas;
     }
 
     public void Remover(Maquina objeto)
     {
-        dao.Remover(objeto);
+        Dao.Remover(objeto);
     }
 }

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 public class AgroSolutionContext : DbContext
 {
     public DbSet<Maquina> Maquinas { get; set; }
-    private string connection = "Server=localhost;Port=3306;Database=Spotifei;Uid=root;Pwd=0123;";
+    private string connection = "Server=localhost;Port=3306;Database=AgroTec;Uid=root;Pwd=0123;";
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseMySql(connection, ServerVersion.AutoDetect(connection));

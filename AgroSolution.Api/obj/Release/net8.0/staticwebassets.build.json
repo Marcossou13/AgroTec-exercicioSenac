@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BM7ZFnTxBbBWQ8FHsoJKojzu9wojZ9eqe4KgdRwUB4M=",
+  "Source": "AgroSolution.Api",
+  "BasePath": "_content/AgroSolution.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

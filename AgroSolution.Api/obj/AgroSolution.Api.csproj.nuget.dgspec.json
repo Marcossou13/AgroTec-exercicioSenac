@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workplace\\AgroTec\\Back\\AgroSolution.Api\\AgroSolution.Api.csproj": {}
+    "C:\\workplace\\AgroTec\\BAck\\AgroSolution.Api\\AgroSolution.Api.csproj": {}
   },
   "projects": {
-    "C:\\workplace\\AgroTec\\Back\\AgroSolution.Api\\AgroSolution.Api.csproj": {
+    "C:\\workplace\\AgroTec\\BAck\\AgroSolution.Api\\AgroSolution.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workplace\\AgroTec\\Back\\AgroSolution.Api\\AgroSolution.Api.csproj",
+        "projectUniqueName": "C:\\workplace\\AgroTec\\BAck\\AgroSolution.Api\\AgroSolution.Api.csproj",
         "projectName": "AgroSolution.Api",
-        "projectPath": "C:\\workplace\\AgroTec\\Back\\AgroSolution.Api\\AgroSolution.Api.csproj",
+        "projectPath": "C:\\workplace\\AgroTec\\BAck\\AgroSolution.Api\\AgroSolution.Api.csproj",
         "packagesPath": "C:\\Users\\Prog_Sis\\.nuget\\packages\\",
-        "outputPath": "C:\\workplace\\AgroTec\\Back\\AgroSolution.Api\\obj\\",
+        "outputPath": "C:\\workplace\\AgroTec\\BAck\\AgroSolution.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prog_Sis\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\workplace\\AgroTec\\Back\\AgroSolution\\AgroSolution.csproj": {
-                "projectPath": "C:\\workplace\\AgroTec\\Back\\AgroSolution\\AgroSolution.csproj"
+              "C:\\workplace\\AgroTec\\BAck\\AgroSolution\\AgroSolution.csproj": {
+                "projectPath": "C:\\workplace\\AgroTec\\BAck\\AgroSolution\\AgroSolution.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\workplace\\AgroTec\\Back\\AgroSolution\\AgroSolution.csproj": {
+    "C:\\workplace\\AgroTec\\BAck\\AgroSolution\\AgroSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workplace\\AgroTec\\Back\\AgroSolution\\AgroSolution.csproj",
+        "projectUniqueName": "C:\\workplace\\AgroTec\\BAck\\AgroSolution\\AgroSolution.csproj",
         "projectName": "AgroSolution",
-        "projectPath": "C:\\workplace\\AgroTec\\Back\\AgroSolution\\AgroSolution.csproj",
+        "projectPath": "C:\\workplace\\AgroTec\\BAck\\AgroSolution\\AgroSolution.csproj",
         "packagesPath": "C:\\Users\\Prog_Sis\\.nuget\\packages\\",
-        "outputPath": "C:\\workplace\\AgroTec\\Back\\AgroSolution\\obj\\",
+        "outputPath": "C:\\workplace\\AgroTec\\BAck\\AgroSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prog_Sis\\AppData\\Roaming\\NuGet\\NuGet.Config"

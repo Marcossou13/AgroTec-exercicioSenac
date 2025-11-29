@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zFeJzwx4NdI=",
+  "dgSpecHash": "7P3kQEY3/E8=",
   "success": true,
-  "projectFilePath": "C:\\workplace\\AgroTec\\Back\\AgroSolution.Api\\AgroSolution.Api.csproj",
+  "projectFilePath": "C:\\workplace\\AgroTec\\BAck\\AgroSolution.Api\\AgroSolution.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Prog_Sis\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.21\\microsoft.aspnetcore.openapi.8.0.21.nupkg.sha512",
     "C:\\Users\\Prog_Sis\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
